@@ -1,6 +1,6 @@
 {
     "name": "lagman/evercookie",
-    "description": "fancyBox offers an elegant way to present images, html content and multimedia for webpages",
+    "description": "Evercookie is a Javascript API that produces extremely persistent cookies in a browser",
 	"homepage": "https://github.com/russianlagman/evercookie",
     "authors": [
         {
