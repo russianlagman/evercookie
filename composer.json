@@ -1,0 +1,11 @@
+{
+    "name": "lagman/evercookie",
+    "description": "fancyBox offers an elegant way to present images, html content and multimedia for webpages",
+	"homepage": "https://github.com/russianlagman/evercookie",
+    "authors": [
+        {
+            "name": "Alexey Samoylov",
+            "email": "alexey.samoylov@gmail.com"
+        }
+    ]
+}
